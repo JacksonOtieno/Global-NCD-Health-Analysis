@@ -24,7 +24,7 @@ Analysis of global noncommunicable disease (NCD) mortality trends across all WHO
 ## Project Status
 
 - [x] Data pulled from GHO API (both indicators, ~12,900 rows each)
-- [ ] Data cleaning (filtering to country-level rows, resolving sex-disaggregation, handling data-quality flags)
+- [x] Data cleaning (filtered to country-level rows, both-sexes series; merged indicators into one wide dataset)
 - [ ] Exploratory analysis
 - [ ] Dashboard
 - [ ] Write-up
